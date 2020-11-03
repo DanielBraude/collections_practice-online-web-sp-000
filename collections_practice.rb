@@ -1,1 +1,2 @@
-
+def sort_array_asc
+each_with_index
